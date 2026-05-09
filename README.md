@@ -9,7 +9,7 @@ Bu servis, kullanıcıdan alınan URL’yi proxy üzerinden hedef siteye iletere
 
 ## 🌐 Canlı Servis
 
-👉 https://nex-search-backend.onrender.com/
+👉 [https://nex-search-backend.onrender.com/](https://nex-search-frontend.vercel.app/)
 
 ---
 
