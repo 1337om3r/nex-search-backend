@@ -1,3 +1,4 @@
+![Açıklama](porjebanner-nexsearch.png)
 # 🚀 NexSearch Backend
 
 NexSearch projesi için geliştirilmiş web tabanlı HTTP/HTTPS proxy backend servisi.
